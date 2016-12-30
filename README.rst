@@ -20,7 +20,7 @@ How to use
 
 .. code-block:: python
 
-    from bing-web-search-api import Client
+    from bing_web_search_api import Client
 
     apikey = 'Your Ocp-Apim-Subscription-Key'
     client = Client(apikey=apikey)
